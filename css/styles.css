@@ -121,7 +121,7 @@ padding: 5%;
 
    
     text-align: center;
-    background-color: #8d7572;
+    background-color: #ef8172;
     color: #ffffff;
 }
 
@@ -139,7 +139,7 @@ padding: 5%;
 
 #press{
 
-    background-color:#8d7572 ;
+    background-color:#ef8172 ;
     text-align: center;
     padding-bottom: 3%;
 }
@@ -181,7 +181,7 @@ margin: 20px 20px 50px;
 
 
 /* footer section */
-#cta {
+#cta-cta {
 
     background-color: #ff4c68;
     padding: 7% 15%;
